@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.rdp
+*.RDP
+Bin/config/AcCodeOborotForm
+/Bin/config
+Bin/Dez.exe
+/Bin
+prop1
+/Source/Bpl
